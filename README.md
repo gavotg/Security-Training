@@ -13,6 +13,8 @@ Colosseum
 ## Challenge-4
 Celebrity
 
+## Challenge-5
+Rewards
 
 ## Recommended Tools
 * [Android Studio](https://developer.android.com/studio)
